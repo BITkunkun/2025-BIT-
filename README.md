@@ -65,14 +65,14 @@ Python/
 
 ### Matlab要求
 - MATLAB R2020a或更高版本
-- 需要安装的工具箱: (请补充)
+- 需要安装的工具箱: 神经网络拟合工具箱
 
 ### Python要求
 ```bash
 pip install -r requirements.txt
 ```
 
-## 各模块功能说明
+## MATLAB各模块功能说明
 
 1. **基础论文复现**
    - `MonteCarlo_simulation_MultiLayers_paper.m`: 多层模型的蒙特卡洛仿真
